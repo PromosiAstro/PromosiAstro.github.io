@@ -116,6 +116,19 @@
   font-family: 'Roboto', sans-serif;
 }
 
+#msg-box4-1f .mbr-header__text {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box4-1f .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1f .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1f .mbr-article P {
+  color: #f7da64;
+}
 #dropdown-menu-19 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -137,5 +150,29 @@
   color: #ffffff;
 }
 #dropdown-menu-19 A {
+  font-family: 'Roboto', sans-serif;
+}
+
+#dropdown-menu-1i .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-1i .nav .link,
+#dropdown-menu-1i .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-1i .navbar,
+#dropdown-menu-1i .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-1i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-1i .dropdown-menu a:hover,
+#dropdown-menu-1i .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-1i .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-1i A {
   font-family: 'Roboto', sans-serif;
 }
